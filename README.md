@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**mattdominguez/mattdominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matthew, a data analyst based in Morgan Hill, CA. 
 
-Here are some ideas to get you started:
+I graduated from San Jose State University in May of 2025 with a bachelor's degree of Business Administration: Data Analytics. I have experience and work with SQL, R programming, Python, and Tableau. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently am working on expanding my portfolio with projects that focus on business approaches to issues. 
+
+Fun Facts About Me: 
+- I have a small mixed dog (yorkie/shitzu) named Chippie. 
+- I LOVE outdoor exploring, especially going on hikes.
+- I strongly dislike coffee, but love tea. 
+
+
+
